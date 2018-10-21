@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Create" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Create" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Create" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AlchemistBuilder.cpp" />
+		<Unit filename="Archer.h" />
+		<Unit filename="Army.h" />
+		<Unit filename="AttackUnit.h" />
+		<Unit filename="ChaosTower.h" />
+		<Unit filename="Creep.h" />
+		<Unit filename="CreepFactory.h" />
+		<Unit filename="DPSStructure.h" />
+		<Unit filename="FactoryProducer.cpp" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="Hero.cpp" />
+		<Unit filename="HeroBuilder.cpp" />
+		<Unit filename="HeroDirector.cpp" />
+		<Unit filename="HumanArcher.cpp" />
+		<Unit filename="HumanKnight.cpp" />
+		<Unit filename="HumanUnitFactory.cpp" />
+		<Unit filename="Knight.h" />
+		<Unit filename="NormalCreep.h" />
+		<Unit filename="NormalCreepFactory.h" />
+		<Unit filename="SniperBuilder.cpp" />
+		<Unit filename="SuperCreep.h" />
+		<Unit filename="SuperCreepFactory.h" />
+		<Unit filename="Tower.h" />
+		<Unit filename="TowerArmy.h" />
+		<Unit filename="UndeadArcher.cpp" />
+		<Unit filename="UndeadKnight.cpp" />
+		<Unit filename="UndeadUnitFactory.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="UniFactory.h" />
+		<Unit filename="VoidBuilder.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

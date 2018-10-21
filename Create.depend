@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1539224286 source:d:\utm\sem7\ipp\create\humanarcher.cpp
+	"Archer.h"
+	<iostream>
+
+1538597264 d:\utm\sem7\ipp\create\archer.h
+	"AttackUnit.h"
+
+1539206901 d:\utm\sem7\ipp\create\attackunit.h
+	<iostream>
+
+1539224296 source:d:\utm\sem7\ipp\create\humanknight.cpp
+	"Knight.h"
+
+1538597265 d:\utm\sem7\ipp\create\knight.h
+	"AttackUnit.h"
+
+1540147217 source:d:\utm\sem7\ipp\create\main.cpp
+	<iostream>
+	"Game.h"
+	"HeroDirector.cpp"
+	"AlchemistBuilder.cpp"
+	"HeroBuilder.cpp"
+	"HeroDirector.cpp"
+	"CreepFactory.h"
+	"Creep.h"
+	"NormalCreep.h"
+	"SuperCreep.h"
+	"NormalCreepFactory.h"
+	"SuperCreepFactory.h"
+
+1539224308 source:d:\utm\sem7\ipp\create\undeadarcher.cpp
+	"Archer.h"
+
+1539224318 source:d:\utm\sem7\ipp\create\undeadknight.cpp
+	"Knight.h"
+
+1539207765 source:d:\utm\sem7\ipp\create\humanunitfactory.cpp
+	"Archer.h"
+	"Knight.h"
+	"UniFactory.h"
+	"HumanKnight.cpp"
+	"HumanArcher.cpp"
+
+1539208221 d:\utm\sem7\ipp\create\unifactory.h
+	<memory>
+	"Archer.h"
+	"Knight.h"
+
+1539224296 d:\utm\sem7\ipp\create\humanknight.cpp
+	"Knight.h"
+
+1540148221 d:\utm\sem7\ipp\create\humanarcher.cpp
+	"Archer.h"
+	<iostream>
+
+1539208033 source:d:\utm\sem7\ipp\create\undeadunitfactory.cpp
+	"Archer.h"
+	"Knight.h"
+	"UniFactory.h"
+	"UndeadKnight.cpp"
+	"UndeadArcher.cpp"
+
+1539208843 source:d:\utm\sem7\ipp\create\game.cpp
+
+1539237531 source:d:\utm\sem7\ipp\create\alchemistbuilder.cpp
+	"HeroBuilder.cpp"
+
+1540132047 d:\utm\sem7\ipp\create\herobuilder.cpp
+	"Hero.cpp"
+
+1539238555 d:\utm\sem7\ipp\create\hero.cpp
+	<string>
+	<iostream>
+
+1540132047 source:d:\utm\sem7\ipp\create\herobuilder.cpp
+	"Hero.cpp"
+
+1539238555 source:d:\utm\sem7\ipp\create\hero.cpp
+	<string>
+	<iostream>
+
+1540145642 source:d:\utm\sem7\ipp\create\herodirector.cpp
+	"HeroBuilder.cpp"
+	"Hero.cpp"
+
+1539237980 source:d:\utm\sem7\ipp\create\sniperbuilder.cpp
+	"HeroBuilder.cpp"
+
+1539237993 source:d:\utm\sem7\ipp\create\voidbuilder.cpp
+	"HeroBuilder.cpp"
+
+1539208444 source:d:\utm\sem7\ipp\create\factoryproducer.cpp
+	"UniFactory.h"
+	"HumanUnitFactory.cpp"
+	"UndeadUnitFactory.cpp"
+
+1539207765 d:\utm\sem7\ipp\create\humanunitfactory.cpp
+	"Archer.h"
+	"Knight.h"
+	"UniFactory.h"
+	"HumanKnight.cpp"
+	"HumanArcher.cpp"
+
+1539208033 d:\utm\sem7\ipp\create\undeadunitfactory.cpp
+	"Archer.h"
+	"Knight.h"
+	"UniFactory.h"
+	"UndeadKnight.cpp"
+	"UndeadArcher.cpp"
+
+1540148245 d:\utm\sem7\ipp\create\undeadknight.cpp
+	"Knight.h"
+
+1540148236 d:\utm\sem7\ipp\create\undeadarcher.cpp
+	"Archer.h"
+
+1539225167 d:\utm\sem7\ipp\create\army.h
+	<string>
+	<vector>
+	<memory>
+	"AttackUnit.h"
+
+1539208444 d:\utm\sem7\ipp\create\factoryproducer.cpp
+	"UniFactory.h"
+	"HumanUnitFactory.cpp"
+	"UndeadUnitFactory.cpp"
+
+1539208843 d:\utm\sem7\ipp\create\game.cpp
+
+1540148152 d:\utm\sem7\ipp\create\game.h
+	<random>
+	<string>
+	"Army.h"
+	"UniFactory.h"
+	"TowerArmy.h"
+	"Tower.h"
+	"ChaosTower.h"
+	"UndeadUnitFactory.cpp"
+	"HumanUnitFactory.cpp"
+	"FactoryProducer.cpp"
+
+1539208982 source:d:\utm\sem7\ipp\create\game.h
+	<random>
+	<string>
+	"Army.h"
+	"UniFactory.h"
+	"UndeadUnitFactory.cpp"
+	"HumanUnitFactory.cpp"
+	"FactoryProducer.cpp"
+
+1540148060 d:\utm\sem7\ipp\create\towerarmy.h
+	<string>
+	<vector>
+	<memory>
+	"DPSStructure.h"
+
+1540112161 d:\utm\sem7\ipp\create\dpsstructure.h
+
+1540112078 d:\utm\sem7\ipp\create\tower.h
+	"DPSStructure.h"
+	<tuple>
+
+1540112095 d:\utm\sem7\ipp\create\chaostower.h
+	"DPSStructure.h"
+
+1540145642 d:\utm\sem7\ipp\create\herodirector.cpp
+	"HeroBuilder.cpp"
+	"Hero.cpp"
+
+1539237531 d:\utm\sem7\ipp\create\alchemistbuilder.cpp
+	"HeroBuilder.cpp"
+
+1540133169 d:\utm\sem7\ipp\create\creepfactory.h
+	"Creep.h"
+	"NormalCreep.h"
+	"SuperCreep.h"
+
+1539257773 d:\utm\sem7\ipp\create\creep.h
+	<iostream>
+
+1539257729 d:\utm\sem7\ipp\create\normalcreep.h
+
+1539257736 d:\utm\sem7\ipp\create\supercreep.h
+
+1539457839 d:\utm\sem7\ipp\create\normalcreepfactory.h
+	"CreepFactory.h"
+	"NormalCreep.h"
+
+1539457850 d:\utm\sem7\ipp\create\supercreepfactory.h
+	"CreepFactory.h"
+	"SuperCreep.h"
+
