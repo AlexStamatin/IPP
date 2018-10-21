@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1539224286 source:d:\utm\sem7\ipp\create\humanarcher.cpp
+1540148221 source:d:\utm\sem7\ipp\create\humanarcher.cpp
 	"Archer.h"
 	<iostream>
 
@@ -29,10 +29,10 @@
 	"NormalCreepFactory.h"
 	"SuperCreepFactory.h"
 
-1539224308 source:d:\utm\sem7\ipp\create\undeadarcher.cpp
+1540148236 source:d:\utm\sem7\ipp\create\undeadarcher.cpp
 	"Archer.h"
 
-1539224318 source:d:\utm\sem7\ipp\create\undeadknight.cpp
+1540148245 source:d:\utm\sem7\ipp\create\undeadknight.cpp
 	"Knight.h"
 
 1539207765 source:d:\utm\sem7\ipp\create\humanunitfactory.cpp
